@@ -188,6 +188,8 @@ github.com/docopt/docopt-go v0.0.0-20180111231733-ee0de3bc6815/go.mod h1:WwZ+bS3
 github.com/dustin/go-humanize v0.0.0-20171111073723-bb3d318650d4/go.mod h1:HtrtbFcZ19U5GC7JDqmcUSB87Iq5E25KnS6fMYU6eOk=
 github.com/dustin/go-humanize v1.0.0 h1:VSnTsYCnlFHaM2/igO1h6X3HA71jcobQuxemgkq4zYo=
 github.com/dustin/go-humanize v1.0.0/go.mod h1:HtrtbFcZ19U5GC7JDqmcUSB87Iq5E25KnS6fMYU6eOk=
+github.com/dweomer/cri v1.11.1-0.20201106210809-71992600041d h1:vB8l0yoHdZTFX81Toy1av/3sg99NrE7aNexVHxhk9Wo=
+github.com/dweomer/cri v1.11.1-0.20201106210809-71992600041d/go.mod h1:+yiSG1P3A2p6mbP325CqvjNI9SrdZwIN8oHttFyYx6Q=
 github.com/elazarl/goproxy v0.0.0-20180725130230-947c36da3153 h1:yUdfgN0XgIJw7foRItutHYUIhlcKzcSf5vDpdhQAKTc=
 github.com/elazarl/goproxy v0.0.0-20180725130230-947c36da3153/go.mod h1:/Zj4wYkgs4iZTTu3o/KG3Itv/qCCa8VVMlb3i9OVuzc=
 github.com/emicklei/go-restful v0.0.0-20170410110728-ff4f55a20633/go.mod h1:otzb+WCGbkyDHkqmQmT5YD2WR4BBwUdeQoFo8l/7tVs=
@@ -622,8 +624,6 @@ github.com/rakelkar/gonetsh v0.0.0-20190719023240-501daadcadf8 h1:83l9gPhYtgxODl
 github.com/rakelkar/gonetsh v0.0.0-20190719023240-501daadcadf8/go.mod h1:4XHkfaUj+URzGO9sohoAgt2V9Y8nIW7fugpu0E6gShk=
 github.com/rancher/containerd v1.3.3-k3s2 h1:RZr+TqFt7+YsrSYkyytlhW4HmneWeFNM7IymNOoGW6A=
 github.com/rancher/containerd v1.3.3-k3s2/go.mod h1:ZMfzmqce2Z+QSEqdHMfeJs1TZ/UeJ1aDrazjpQT4ehM=
-github.com/rancher/cri v1.3.0-k3s.6 h1:jeom53pNYUJHlZBHpax8vpQeBoW19vSVGAQn9jPyIcc=
-github.com/rancher/cri v1.3.0-k3s.6/go.mod h1:Ht5T1dIKzm+4NExmb7wDVG6qR+j0xeXIjjhCv1d9geY=
 github.com/rancher/cri-tools v1.18.0-k3s1 h1:pLYthxpSu6k3Up9tNAMA0MK2ERqB6FC1sZQPRSW1qSg=
 github.com/rancher/cri-tools v1.18.0-k3s1/go.mod h1:Ij/GWNRcEDP6zVN6eQpvN/s0nhuJVtPQFy7RAdl+Wu8=
 github.com/rancher/dynamiclistener v0.2.0 h1:KucYwJXVVGhZ/NndfMCeQoCafT/VN7kvqSGgmlX8Lxk=
